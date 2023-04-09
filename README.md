@@ -6,7 +6,7 @@ I den här laborationen ska du individuellt skapa ett enklare REST-API i NodeJS 
 
 Kör `npm install` för att komma igång. Det är rekommenderas du använder `npm test` för att utveckla ditt API. Det går även bra att starta dev-servern med `npm run dev` och manuellt testa API'et med VS Code tilläget REST Client.
 
-## Inlämningd
+## Inlämning
 
 För att bli godkänd på den här uppgiften MÅSTE du använda GIT och GitHub. Inlämningen sker som vanligt via läroplattformen där du ska zippa ihop din projektmapp. I din projektmapp ska det finnas (utöver all kod) en README.md fil. Den ska innehålla en titel, beskrivning av projektet, vilka krav som är uppfyllda, info om hur projektet byggs och körs. Kom ihåg att ta bort node_modules!!!
 
