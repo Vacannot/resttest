@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-I den här laborationen ska du individuellt skapa ett enklare REST-API i NodeJS med Express och Typescript. Då API:et skall har funktionalitet för CRUD skall det finnas endpoints inkluderat GET, DELETE, PUT och POST för en resurs. Varje endpoint skall utföra vad dess anropsmetod ämnar att utföra, dvs. POST för att lägga till, PUT för att uppdatera, GET för att hämta osv. Vad API:et hanterar för typ av resurs väljer du själva, dock ska det finns minst 4 st egenskaper för ett objekt varav en egenskap är id. Projektet skall inte ha någon databas utan istället ha all data sparad lokalt i serverprogrammet (exempelvis en array med produkter).
+I den här laborationen ska du individuellt skapa ett enklare REST-API i NodeJS med Express och Typescript. Då API:et skall har funktionalitet för CRUD skall det finnas endpoints inkluderat GET, DELETE, PUT och POST för en resurs. Varje endpoint skall utföra vad dess anropsmetod ämnar att utföra, dvs. POST för att lägga till, PUT för att uppdatera, GET för att hämta osv. Vad API:et hanterar för typ av resurs väljer du själva, dock ska det finns minst 4 st egenskaper för ett objekt varav en egenskap är id. Projektet skall inte ha någon databas utan sistället ha all data sparad lokalt i serverprogrammet (exempelvis en array med produkter).
 
 Kör `npm install` för att komma igång. Det är rekommenderas du använder `npm test` för att utveckla ditt API. Det går även bra att starta dev-servern med `npm run dev` och manuellt testa API'et med VS Code tilläget REST Client.
 
